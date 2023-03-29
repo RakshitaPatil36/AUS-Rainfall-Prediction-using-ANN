@@ -6,4 +6,4 @@ Performed imputations on dataset with 145460 observations with missing data.
 
 Employed Deep Artificial Neural networks on the data after standardizing data and performed SMOTE to handle imbalanced data.
 
-Model achieved 82 % accuarcy of predicting wether rainfall is likely to happen or not. 
+Model achieved 82 % accuracy of predicting weather rainfall is likely to happen or not. 
